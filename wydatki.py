@@ -2,10 +2,9 @@ import streamlit as st
 import gspread
 import pandas as pd
 from datetime import datetime
-import json
 
 # Połączenie z Google Sheets
-credentials_dict = json.loads(st.secrets["GS_CREDENTIALS"])
+credentials_dict = st.secrets["GS_CREDENTIALS"]
 client = gspread.service_account_from_dict(credentials_dict)
 sheet = client.open("Wydatki").sheet1
 
