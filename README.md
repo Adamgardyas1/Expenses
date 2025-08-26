@@ -8,4 +8,5 @@ Interaktywna aplikacja webowa do rozliczania wydatków trzech osób.
 - `utils.py` – funkcje pomocnicze
 
 ## Link
-[Kliknij tutaj, aby przejść do strony](https://wydatki-bjk6cyrm89bqgopvnmhuoj.streamlit.app/))
+[Kliknij tutaj, aby przejść do strony](https://wydatki-bjk6cyrm89bqgopvnmhuoj.streamlit.app/)
+<a href="https://wydatki-bjk6cyrm89bqgopvnmhuoj.streamlit.app/" target="_blank">Kliknij tutaj, aby przejść do strony</a>
